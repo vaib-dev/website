@@ -1,0 +1,77 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    width: 100%;
+    text-rendering: optimizeLegibility;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7) ),url(mikey-harris-kw0z6RyvC0s-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+header{
+
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: auto;
+
+}
+nav{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px ;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+}
+
+a{
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+}
+main h1{
+    padding-top: 10%;
+    color: white;
+    padding-left: 5%;
+    font-weight: 300;
+    letter-spacing: 1px;
+    word-spacing: 4px;;
+}
+.btn{
+    padding-left: 40%;
+    padding-top: 2%;
+    display: inline-block;
+    border-radius: 200px;
+    border: 1px solid;
+}śśśś
+.btn a{
+    display: inline-block;
+}
+
+.map{
+     text-align: center;
+     padding-top: 5%;
+     padding-bottom: 5%;
+}
+
+footer{
+background-color: rgba(0, 0, 0, 0.849);
+font-size: 15px;
+color: white;
+    padding-top: 12px;
+    padding-bottom: 6px ;
+    text-align: center;
+    width: auto;
+}
