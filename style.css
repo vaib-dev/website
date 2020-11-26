@@ -32,10 +32,11 @@ nav{
 a{
     color: rgb(255, 255, 255);
     background-color: transparent;
+    text-decoration: none;
 }
 
-a{
-    font-size: 12px;
+nav a{
+    text-decoration: none;
     padding-left: 10px;
     padding-right: 10px;
 
@@ -50,28 +51,31 @@ main h1{
     word-spacing: 4px;;
 }
 .btn{
-    padding-left: 40%;
-    padding-top: 2%;
+    margin-left: 40%;
+    padding: 6px 14px;
+    background-color: #2ecc71;
+    font-size: 20px;
     display: inline-block;
     border-radius: 200px;
-    border: 1px solid;
-}śśśś
-.btn a{
+    border: 1px solid white;
+}
+.btn-full{
     display: inline-block;
+    margin-left: 5px;
+    margin-top: 25px;
+    margin-bottom: 250px;
+    padding: 6px 14px;
+    background-color: #2ecc71;
+    font-size: 20px;
+    display: inline-block;
+    border-radius: 200px;
+    border: 1px solid white;
 }
-
-.map{
-     text-align: center;
-     padding-top: 5%;
-     padding-bottom: 5%;
-}
-
 footer{
 background-color: rgba(0, 0, 0, 0.849);
 font-size: 15px;
 color: white;
-    padding-top: 12px;
-    padding-bottom: 6px ;
+     padding-bottom: 6px ;
     text-align: center;
     width: auto;
 }
