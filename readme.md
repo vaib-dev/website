@@ -1,5 +1,7 @@
 
-# <img width="55" height="55" src="https://image.flaticon.com/icons/png/512/1005/1005141.png"> Website Development 
+<img width="55" height="55" src="https://image.flaticon.com/icons/png/512/1005/1005141.png"> 
+
+# Website Development 
 I am designing a Website with the help of bootstrap, HTML and CSS. Let's see what comes out. I believe that we will get some awsome 
 results at the end. 
 ## <img width="55" height="55" src="https://img-premium.flaticon.com/png/512/4335/premium/4335542.png?token=exp=1625747562~hmac=c9e53573a835a4936059bdc3b8879dd0"> About Me 
