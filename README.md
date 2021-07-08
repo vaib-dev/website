@@ -1,8 +1,8 @@
 
-#  Website Development <img width="55" height="55" src="https://image.flaticon.com/icons/png/512/1005/1005141.png" alt="Programming free icon" title="Programming free icon" class="loaded">
+# <img width="55" height="55" src="https://image.flaticon.com/icons/png/512/1005/1005141.png"> Website Development 
 I am designing a Website with the help of bootstrap, HTML and CSS. Let's see what comes out. I believe that we will get some awsome 
 results at the end. 
-## About Me <img width="55" height="55" src="https://img-premium.flaticon.com/png/512/4335/premium/4335542.png?token=exp=1625747562~hmac=c9e53573a835a4936059bdc3b8879dd0" alt="User data free icon" title="User data free icon" class="loaded">
+## <img width="55" height="55" src="https://img-premium.flaticon.com/png/512/4335/premium/4335542.png?token=exp=1625747562~hmac=c9e53573a835a4936059bdc3b8879dd0"> About Me 
 I am an Expert WordPress Designer on Upwork. I usually came across the clients askingto make a custom websote using Html, CSS & Bootstrap. So, now I have decided to learn the development of 
 website from scratch.
 
@@ -10,7 +10,7 @@ website from scratch.
 ## Logo 
 Logo will be updated soon as it is under process. I am using Adobe Illustrator to design the Logo.
 
-## Features 📝 
+## 📝 Features 
 ![](https://img.shields.io/static/v1?label&message=HTML&color=red)![](https://img.shields.io/static/v1?label&message=CSS&color==orange)![](https://img.shields.io/static/v1?label&message=Bootstrap&color=blue)
 
 - Website Development from scratch
@@ -25,7 +25,7 @@ Logo will be updated soon as it is under process. I am using Adobe Illustrator t
 - [vaibhavpratapsingh22](https://github.com/Vaibhavpratapsingh22)
 
   
-## FAQ <img width="55" height="55" src="https://img-premium.flaticon.com/png/512/1533/premium/1533202.png?token=exp=1625747562~hmac=d980bb64537a4df5f3e9339bd6a3a0d7" alt="Information free icon" title="Information free icon" class="loaded">
+## <img width="55" height="55" src="https://img-premium.flaticon.com/png/512/1533/premium/1533202.png?token=exp=1625747562~hmac=d980bb64537a4df5f3e9339bd6a3a0d7"> FAQ
 
 #### Are you making the website from scratch?
 Answer Yes.
@@ -42,7 +42,7 @@ Answer I will be using Bootstrap, Html, CSS and Javascript.
 Answer Send me an Email or ping me on LinkedIn.
 
   
-## Support 🤝
+## 🤝Support 
 
 For support, email vaibhavpratapsingh22@gmail.com or connect on LinkedIn https://www.linkedin.com/in/vaibhav-singh22.
 
