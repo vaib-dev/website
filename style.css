@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.625em;
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.section-gap{
+    padding: 120px 0 0 0;
+}
+.align-items-center {
+    align-items: center !important;
+}
+.justify-content-between {
+    justify-content: space-between !important;
+}
+.primary-btn {
+    background: #8490ff;
+    line-height: 42px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+    color: #fff;
+    display: inline-block;
+    font-weight: 500;
+    position: relative;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    position: relative;
+}
+a, a:focus, a:hover {
+    text-decoration: none;
+    outline: 0;
+}
+.portfolio-area .filters {
+    text-align: center;
+}
+ol, ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.portfolio-area .filters ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 18px 15px;
+    cursor: pointer;
+    position: relative;
+    text-transform: uppercase;
+    color: #222;
+    font-size: 12px;
+    font-weight: 500;
+}
+.portfolio-area .filters-content {
+    margin-top: 50px;
+}
+.single-portfolio {
+    border-radius: 5px;
+}
+.portfolio-area .filters-content .p-inner {
+    padding: 20px 0px;
+    text-align: center;
+}
+.footer_area {
+    color: #fff;
+    background: #000;
+}
+.p_120 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.contact-page-area .address-wrap .single-contact-address {
+    margin-bottom: 8px;
+}
+.contact-page-area .form-area input, .contact-page-area .form-area textarea {
+    border-radius: 0;
+    font-size: 13px !important;
+    
+}
+.contact-page-area .form-area input {
+  
+}
+.mb-20 {
+    margin-bottom: 15px;
+    padding: 16px;
+
+}
+.contact-page-area .form-area textarea {
+    height: 190px;
+    margin-top: 0px;
+    padding: 15px;
+}
+#nav-toggle{
+    margin-top: 2%;
+    border: none;
+    background-color: white;
+    font-size: 20px;
+
+}
+.hamburger{
+    margin-left: 2%;
+}
