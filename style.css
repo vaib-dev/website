@@ -9,7 +9,7 @@ body {
     line-height: 1.625em;
 }
 .container {
-    width: 100%;
+    width: 80%;
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
@@ -118,4 +118,11 @@ ol, ul {
 }
 .hamburger{
     margin-left: 2%;
+    display: flex;
+    width: 20%;
+}
+.navigation{
+    height: 100vh;
+    width: 10vw;
+    background-color: black;
 }
